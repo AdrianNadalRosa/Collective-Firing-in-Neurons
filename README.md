@@ -3,3 +3,4 @@ Degree in Complex Systems, IFISC-UIB:
 
 1. Simulation Methods: SM_CollectiveFiring
 2. Introduction to Data Analysis and Machine Learning: IDAML_CulturalCommunityDetection
+3. Complex Networks: CN_FacultyHiring
